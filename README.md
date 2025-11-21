@@ -1,5 +1,5 @@
 # Simple-HTTP-Server-Python-
-new rep
+new repo
 import http.server
 import socketserver
 
