@@ -3,5 +3,5 @@ new repo
 import http.server
 import socketserver
 
-POR = 8000
+PORT = 8000
 Handler = http.server.SimpleHTTPRequestHandler
